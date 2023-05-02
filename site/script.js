@@ -90,7 +90,7 @@ function description(){
 
     document.querySelector('main').append(description);
     description.className='lOl';
-  description.innerHTML='<div>москвичи бункерные крысы, военных преступников третьего рейха, в своей крысиной москве, а москва - это карликовое, бункерное мини государство: неудачников, преступников третьего рейха. <span style="font-size:25px;color:red;text-shadow:black 1px 1px;">московиты настолько крысы что даже Zигуют в память своему гитлеру как то по крысинному!</span></div>';
+  description.innerHTML='<div>москвичи бункерные крысы, военных преступников третьего рейха, в своей крысиной москве, а москва - это карликовое, бункерное мини государство: неудачников, преступников третьего рейха. <span style="font-size:25px;color:red;text-shadow:black 1px 1px;">москоVиты настолько крысы что даже Zигуют в память своему гитлеру(поганому), как то по крысинному!</span></div>';
 }
 
 document.querySelector('button').addEventListener('click',()=>{
