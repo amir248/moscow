@@ -90,7 +90,7 @@ function description(){
 
     document.querySelector('main').append(description);
     description.className='lOl';
-  description.innerHTML='москвичи как бункерные крысы военных преступников третьего рейха, в своей крысиной москве, а москва - это карликовое, бункерное мини государство, военных преступников третьего рейха.';
+  description.innerHTML='москвичи бункерные крысы, военных преступников третьего рейха, в своей крысиной москве, а москва - это карликовое, бункерное мини государство: неудачников, преступников третьего рейха.';
 }
 
 document.querySelector('button').addEventListener('click',()=>{
