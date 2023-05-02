@@ -104,3 +104,10 @@ left:63%;
   top:30px;
 /* left:33%; */
 }
+footer{
+  width:100%;
+}
+#sigCommentsBlock{
+  width:100%;
+  max-width:900px;
+}
